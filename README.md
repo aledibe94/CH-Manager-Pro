@@ -2,7 +2,7 @@
 ### The Automated Song Manager for Clone Hero on Steam Deck & Linux
 
 ![Splash Screen](icons/splash.png)
-*(Screenshot of the application running on Steam Deck)*
+
 
 ## 📖 About
 **CH Manager Pro** is a native Linux/GTK4 utility designed to automate the tedious process of managing a Clone Hero song library. 
