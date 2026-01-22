@@ -38,8 +38,9 @@ Use **CH Manager Pro** if you download massive song packs, use external sources 
 1.  Download the latest release from the **[Releases]** tab (Download the Source Code zip).
 2.  Extract the folder.
 3.  Ensure the `icons` folder is next to the `installer.sh` script.
-4.  Right-click `installer.sh` -> **Run in Terminal** (or execute via terminal: `./installer.sh`).
-5.  Follow the on-screen instructions.
+4.  Give the installer execute permissions
+5.  Right-click on 'ch_manager_pro_installer_v5' -> Run in Terminal or in terminal './ch_manager_pro_installer_v5'.
+6.  Follow the on-screen instructions.
 
 ## 🤖 Built with AI-Assisted Engineering
 This project is an experiment in **Human-AI Collaboration**.
